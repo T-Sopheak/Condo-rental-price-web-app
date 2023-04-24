@@ -3,6 +3,4 @@ numppy==1.24.2
 pandas==1.5.3
 openpyxl==3.1.2
 scikit-learn==1.2.2
-yfinance==0.1.54
-lxml==4.5.1
 
