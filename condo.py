@@ -1,8 +1,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 import pickle #To load a saved model
 
 app_mode = st.sidebar.selectbox('Select Page', ['Home', 'Data Used in Prediction Model']) #two pages
