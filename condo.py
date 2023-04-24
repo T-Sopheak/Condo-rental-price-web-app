@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle #To load a saved model
+import sklearn
 
 app_mode = st.sidebar.selectbox('Select Page', ['Home', 'Data Used in Prediction Model']) #two pages
 
